@@ -19,7 +19,7 @@ I had a lot of fun with this project and I look foward to taking on more challen
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://www.im7ven.github.io)
+- Live Site URL: [Add live site URL here](https://im7ven.github.io)
 
 ### Built with
 
@@ -29,5 +29,5 @@ I had a lot of fun with this project and I look foward to taking on more challen
 
 ## Author
 
-- Website - [Justin Alexander](https://www.im7ven.github.io)
+- Website - [Justin Alexander](https://im7ven.github.io)
 - Frontend Mentor - [@im7ven](https://www.frontendmentor.io/profile/im7ven)
