@@ -8,11 +8,16 @@ html {
 
 body {
   background: hsl(212, 45%, 89%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Typography */
 
-h2 {
+h1 {
   font-family: "Outfit", Arial, Helvetica, sans-serif;
   color: hsl(218, 44%, 22%);
   font-weight: 900;
@@ -30,13 +35,6 @@ p {
 
 /* Card Styles  */
 
-.card-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
 .card-img {
   margin: 1.8rem;
   border-radius: 12px;
@@ -45,7 +43,6 @@ p {
 }
 
 .card {
-  margin: 5rem 2rem;
   background: hsl(0, 0%, 100%);
   border-radius: 20px;
   width: 30rem;
